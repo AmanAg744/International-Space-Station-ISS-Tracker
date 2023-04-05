@@ -1,0 +1,18 @@
+There are currently14astronauts on board the iss: 
+
+Sergey Prokopyev- on board
+Dmitry Petelin- on board
+Frank Rubio- on board
+Nicole Mann- on board
+Josh Cassada- on board
+Koichi Wakata- on board
+Anna Kikina- on board
+Fei Junlong- on board
+Deng Qingming- on board
+Zhang Lu- on board
+Stephen Bowen- on board
+Warren Hoburg- on board
+Sultan Alneyadi- on board
+Andrey Fedyaev- on board
+
+ your current lat/long is: [19.0728, 72.8826]
